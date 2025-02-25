@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Imagekit
 =======
 # ImageKit Video Shop
@@ -39,7 +38,7 @@ A modern Next.js application for managing and selling video content using ImageK
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Himazing/Imagekit.git
 cd imagekit-video-main
 ```
 
