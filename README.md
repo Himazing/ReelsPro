@@ -1,5 +1,5 @@
-# Imagekit
-=======
+# ReelsPro
+Reels Pro is a Next.js-based social media application where users can upload and share short videos (reels). It uses NextAuth for authentication, ImageKit for media storage, and TypeScript for type safety. A modern Next.js application for managing and selling video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities.
 
 ## Features
 
@@ -73,15 +73,6 @@ IMAGEKIT_PRIVATE_KEY=
 IMAGEKIT_URL_ENDPOINT=
 ```
 
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build production application
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
-- `npm run seed` - Seed the database
-- `npm run mailtrap` - Test email configuration
-
 ## Project Structure
 
 ```
@@ -97,15 +88,4 @@ IMAGEKIT_URL_ENDPOINT=
 └── types.d.ts         # TypeScript declarations
 ```
 
-## Contributing
 
-NO CONTRIBUTING PLEASE!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, watch youtube video
->>>>>>> c9dfd9e (Initial commit)
