@@ -1,7 +1,7 @@
 # 🎥 ReelsPro
 Reels Pro is a Next.js-based social media application where users can upload and share short videos (reels). It uses NextAuth for authentication, ImageKit for media storage, and TypeScript for type safety. A modern Next.js application for managing and selling video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities.
 
-## <a name="live-demo"> 🚀 Live Demo [Live Website Link](https://reelspro-sand.vercel.app/)
+## <a name="live-demo"> 🚀 Live Demo [Live Website Link](https://reelspro-rho.vercel.app/)
 Try the live app now and experience the power of ReelsPro in action!
 
 ## Features
