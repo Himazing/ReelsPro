@@ -1,5 +1,8 @@
-# ReelsPro
+# 🎥 ReelsPro
 Reels Pro is a Next.js-based social media application where users can upload and share short videos (reels). It uses NextAuth for authentication, ImageKit for media storage, and TypeScript for type safety. A modern Next.js application for managing and selling video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities.
+
+## <a name="live-demo"> 🚀 Live Demo [Live Website Link](https://reelspro-sand.vercel.app/)
+Try the live app now and experience the power of ReelsPro in action!
 
 ## Features
 
@@ -12,16 +15,18 @@ Reels Pro is a Next.js-based social media application where users can upload and
 - 📧 Email Notifications (Nodemailer)
 - 🗄️ MongoDB Database Integration
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- **Frontend**: Next.js 15, React 19, TypeScript
-- **Styling**: Tailwind CSS, DaisyUI
-- **Authentication**: NextAuth.js, JWT
-- **Database**: MongoDB with Mongoose
-- **File Storage**: ImageKit
-- **Payment**: Razorpay
-- **Email**: Nodemailer
-- **Form Handling**: React Hook Form
+| Tech                  | Description                      |
+| --------------------- | -------------------------------- |
+| ⚛️ **Frontend**       | Next.js 15, React 19, TypeScript |
+| 🎨 **Styling**        | Tailwind CSS, DaisyUI            |
+| 🔐 **Auth**           | NextAuth.js, JWT                 |
+| 🧮 **Database**       | MongoDB + Mongoose               |
+| 🖼️ **Media Storage**  | ImageKit                         |
+| 💰 **Payments**       | Razorpay                         |
+| 📬 **Emails**         | Nodemailer                       |
+| 📋 **Forms**          | React Hook Form                  |
 
 ## Prerequisites
 
@@ -89,3 +94,16 @@ IMAGEKIT_URL_ENDPOINT=
 ```
 
 
+## 📬 Contact
+
+Feel free to reach out to me through any of the following channels:
+
+- **Email**: [jhahim11@gmail.com](mailto:jhahim11@gmail.com)
+- **LinkedIn**: [linkedin.com/in/himazing](https://www.linkedin.com/in/himazing/)
+
+### 🔥 Made with ❤️ by **Himanshu Kumar**
+
+## 🌟 Support & Contribution
+
+If you find this project helpful, consider giving it a ⭐️!
+Feel free to fork, raise issues, or contribute with PRs — contributions are welcome! 🤝
